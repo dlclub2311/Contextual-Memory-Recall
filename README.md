@@ -26,7 +26,7 @@ For results on other methods and other datasets, change the ```options``` value 
 
 
 #### 4. Results
-The results are saved in the specified log files (see the --log-file option).
+The results are saved in the specified log files (see the ```--log-file``` option).
 
 
 ## Acknowledgements
