@@ -1,4 +1,5 @@
 ## Contextual Memory Recall: A Novel Metric for Class Incremental Learning
+<img width="2151" height="1391" alt="CMR-Visualisation-Complete" src="https://github.com/user-attachments/assets/0c36fba9-89da-44d9-a204-763833844c11" />
 
 #### 1. Code Dependencies
 To install the required packages and to switch to the new environment: 
