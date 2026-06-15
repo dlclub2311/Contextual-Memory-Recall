@@ -10,7 +10,7 @@ Add the appropriate ANACONDA path in ```prefix``` inside ```environment.yaml```
 
 #### 2. Data Setup
 
-1. Cifar-100 dataset is automatically downloaded by the code and the required data setup is done by the code.
+1. Cifar-100 dataset is automatically downloaded and the required data setup is done by the code.
 2. ImageNet-100 and Imagenet-1K datasets have to be downloaded and organized according to the paths given in the respective files in *imagenet_split* folder.
 
 #### 3. Experiments
